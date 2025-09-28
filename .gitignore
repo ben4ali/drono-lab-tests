@@ -1,2 +1,3 @@
-data/predict/videos/*
-runs/*
+.venv
+models/
+yolo11n.pt
